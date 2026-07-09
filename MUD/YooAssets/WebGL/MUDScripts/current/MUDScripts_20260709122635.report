@@ -1,0 +1,265 @@
+{
+    "Summary": {
+        "YooVersion": "2.3.19",
+        "UnityVersion": "6000.3.19f1",
+        "BuildDate": "09.07.2026 15:27:20",
+        "BuildSeconds": 42,
+        "BuildTarget": 20,
+        "BuildPipeline": "ScriptableBuildPipeline",
+        "BuildBundleType": 2,
+        "BuildPackageName": "MUDScripts",
+        "BuildPackageVersion": "20260709122635",
+        "BuildPackageNote": "09.07.2026 15:26:37",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "SupportExtensionless": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": false,
+        "IgnoreRuleName": "YooAsset.Editor.RawFileIgnoreRule",
+        "ClearBuildCacheFiles": true,
+        "UseAssetDependencyDB": true,
+        "EnableSharePackRule": false,
+        "SingleReferencedPackAlone": true,
+        "EncryptionServicesClassName": "null",
+        "ManifestProcessServicesClassName": "null",
+        "ManifestRestoreServicesClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "ReplaceAssetPathWithAddress": false,
+        "WriteLinkXML": true,
+        "CacheServerHost": "",
+        "CacheServerPort": 0,
+        "BuiltinShadersBundleName": "",
+        "MonoScriptsBundleName": "",
+        "AssetFileTotalCount": 8,
+        "MainAssetTotalCount": 8,
+        "AllBundleTotalCount": 8,
+        "AllBundleTotalSize": 2361982,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "AOTDLLs",
+            "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/AOTDLLs.bytes",
+            "AssetGUID": "c57a02da51c7f0d02af68d7c23b76141",
+            "AssetTags": [],
+            "MainBundleName": "assets__project_generated_hybridclr_yooassetrawfiles_aotdlls.bundle",
+            "MainBundleSize": 1330,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "HotUpdateDLLs",
+            "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/HotUpdateDLLs.bytes",
+            "AssetGUID": "ba424acbef80d3ac4a9ce9ece24f6f96",
+            "AssetTags": [],
+            "MainBundleName": "assets__project_generated_hybridclr_yooassetrawfiles_hotupdatedlls.bundle",
+            "MainBundleSize": 1275,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/mscorlib.dll.bytes",
+            "AssetGUID": "7c40ae4fc5892b6d78cbd5ee62274d03",
+            "AssetTags": [],
+            "MainBundleName": "assets__project_generated_hybridclr_yooassetrawfiles_mscorlib_dll.bundle",
+            "MainBundleSize": 1117627,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "MUD.dll",
+            "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/MUD.dll.bytes",
+            "AssetGUID": "7c48cb4947e9e86d6afb235d4a2a4e64",
+            "AssetTags": [],
+            "MainBundleName": "assets__project_generated_hybridclr_yooassetrawfiles_mud_dll.bundle",
+            "MainBundleSize": 461378,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "NuclearServices.dll",
+            "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/NuclearServices.dll.bytes",
+            "AssetGUID": "30c8e063889c1d49bbd9854d654fac7b",
+            "AssetTags": [],
+            "MainBundleName": "assets__project_generated_hybridclr_yooassetrawfiles_nuclearservices_dll.bundle",
+            "MainBundleSize": 50811,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Shared.dll",
+            "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/Shared.dll.bytes",
+            "AssetGUID": "83816e5f582116fe79df6cffd3ece4f1",
+            "AssetTags": [],
+            "MainBundleName": "assets__project_generated_hybridclr_yooassetrawfiles_shared_dll.bundle",
+            "MainBundleSize": 138972,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UniTask.dll",
+            "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/UniTask.dll.bytes",
+            "AssetGUID": "4323caaded6eebd3bbc8e55fb4b880c9",
+            "AssetTags": [],
+            "MainBundleName": "assets__project_generated_hybridclr_yooassetrawfiles_unitask_dll.bundle",
+            "MainBundleSize": 221037,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "c673e87255daccde38dd4fce5414e743",
+            "AssetTags": [],
+            "MainBundleName": "assets__project_generated_hybridclr_yooassetrawfiles_unityengine_coremodule_dll.bundle",
+            "MainBundleSize": 369552,
+            "DependAssets": [],
+            "DependBundles": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets__project_generated_hybridclr_yooassetrawfiles_aotdlls.bundle",
+            "FileName": "935329138881249a03d2a5c6ad6a16f0.bundle",
+            "FileHash": "935329138881249a03d2a5c6ad6a16f0",
+            "FileCRC": 3667004301,
+            "FileSize": 1330,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/AOTDLLs.bytes",
+                    "AssetGUID": "c57a02da51c7f0d02af68d7c23b76141"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets__project_generated_hybridclr_yooassetrawfiles_hotupdatedlls.bundle",
+            "FileName": "0c55e0e845228529d33812959c398bf4.bundle",
+            "FileHash": "0c55e0e845228529d33812959c398bf4",
+            "FileCRC": 1674396422,
+            "FileSize": 1275,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/HotUpdateDLLs.bytes",
+                    "AssetGUID": "ba424acbef80d3ac4a9ce9ece24f6f96"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets__project_generated_hybridclr_yooassetrawfiles_mscorlib_dll.bundle",
+            "FileName": "b04ebddbeeb73fc520b9dc11cea17e11.bundle",
+            "FileHash": "b04ebddbeeb73fc520b9dc11cea17e11",
+            "FileCRC": 4195727835,
+            "FileSize": 1117627,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/mscorlib.dll.bytes",
+                    "AssetGUID": "7c40ae4fc5892b6d78cbd5ee62274d03"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets__project_generated_hybridclr_yooassetrawfiles_mud_dll.bundle",
+            "FileName": "fab0c965caef553bd7600d6863cb4ded.bundle",
+            "FileHash": "fab0c965caef553bd7600d6863cb4ded",
+            "FileCRC": 2265311674,
+            "FileSize": 461378,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/MUD.dll.bytes",
+                    "AssetGUID": "7c48cb4947e9e86d6afb235d4a2a4e64"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets__project_generated_hybridclr_yooassetrawfiles_nuclearservices_dll.bundle",
+            "FileName": "7112b06174ebf60d0581f3891c4d0db6.bundle",
+            "FileHash": "7112b06174ebf60d0581f3891c4d0db6",
+            "FileCRC": 4139536284,
+            "FileSize": 50811,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/NuclearServices.dll.bytes",
+                    "AssetGUID": "30c8e063889c1d49bbd9854d654fac7b"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets__project_generated_hybridclr_yooassetrawfiles_shared_dll.bundle",
+            "FileName": "cca15edf566bd6158eb637359a890a72.bundle",
+            "FileHash": "cca15edf566bd6158eb637359a890a72",
+            "FileCRC": 4131004977,
+            "FileSize": 138972,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/Shared.dll.bytes",
+                    "AssetGUID": "83816e5f582116fe79df6cffd3ece4f1"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets__project_generated_hybridclr_yooassetrawfiles_unitask_dll.bundle",
+            "FileName": "06313839d0f2827a9aface1fa5a44cdd.bundle",
+            "FileHash": "06313839d0f2827a9aface1fa5a44cdd",
+            "FileCRC": 1013416338,
+            "FileSize": 221037,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/UniTask.dll.bytes",
+                    "AssetGUID": "4323caaded6eebd3bbc8e55fb4b880c9"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets__project_generated_hybridclr_yooassetrawfiles_unityengine_coremodule_dll.bundle",
+            "FileName": "0092134d581a22df499f42290907ea7f.bundle",
+            "FileHash": "0092134d581a22df499f42290907ea7f",
+            "FileCRC": 9887294,
+            "FileSize": 369552,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/_Project/Generated/HybridCLR/YooAssetRawFiles/UnityEngine.CoreModule.dll.bytes",
+                    "AssetGUID": "c673e87255daccde38dd4fce5414e743"
+                }
+            ]
+        }
+    ],
+    "IndependAssets": []
+}
