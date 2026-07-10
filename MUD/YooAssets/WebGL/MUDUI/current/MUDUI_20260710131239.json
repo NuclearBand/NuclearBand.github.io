@@ -1,0 +1,36 @@
+{
+    "FileVersion": "2025.9.30",
+    "EnableAddressable": true,
+    "SupportExtensionless": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "ReplaceAssetPathWithAddress": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 2,
+    "BuildPipeline": "ScriptableBuildPipeline",
+    "PackageName": "MUDUI",
+    "PackageVersion": "20260710131239",
+    "PackageNote": "10.07.2026 16:12:39",
+    "AssetList": [
+        {
+            "Address": "MessageWindowNoesis",
+            "AssetPath": "Assets/_Project/Resources/GUI/MessageWindow/MessageWindowNoesis.xaml",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets__project_resources_gui_messagewindow_messagewindownoesis.bundle",
+            "UnityCRC": 2119749613,
+            "FileHash": "bf3643891c47394717eaf4559747819e",
+            "FileCRC": 1962204390,
+            "FileSize": 1282059,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        }
+    ]
+}

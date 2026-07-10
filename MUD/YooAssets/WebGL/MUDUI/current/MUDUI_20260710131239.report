@@ -1,0 +1,237 @@
+{
+    "Summary": {
+        "YooVersion": "2.3.19",
+        "UnityVersion": "6000.3.19f1",
+        "BuildDate": "10.07.2026 16:12:42",
+        "BuildSeconds": 2,
+        "BuildTarget": 20,
+        "BuildPipeline": "ScriptableBuildPipeline",
+        "BuildBundleType": 2,
+        "BuildPackageName": "MUDUI",
+        "BuildPackageVersion": "20260710131239",
+        "BuildPackageNote": "10.07.2026 16:12:39",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "SupportExtensionless": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": false,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "ClearBuildCacheFiles": true,
+        "UseAssetDependencyDB": true,
+        "EnableSharePackRule": false,
+        "SingleReferencedPackAlone": true,
+        "EncryptionServicesClassName": "null",
+        "ManifestProcessServicesClassName": "null",
+        "ManifestRestoreServicesClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "ReplaceAssetPathWithAddress": false,
+        "WriteLinkXML": true,
+        "CacheServerHost": "",
+        "CacheServerPort": 0,
+        "BuiltinShadersBundleName": "",
+        "MonoScriptsBundleName": "",
+        "AssetFileTotalCount": 21,
+        "MainAssetTotalCount": 1,
+        "AllBundleTotalCount": 1,
+        "AllBundleTotalSize": 1282059,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "MessageWindowNoesis",
+            "AssetPath": "Assets/_Project/Resources/GUI/MessageWindow/MessageWindowNoesis.xaml",
+            "AssetGUID": "cd0cf5a7b42157fc7807507436305564",
+            "AssetTags": [],
+            "MainBundleName": "assets__project_resources_gui_messagewindow_messagewindownoesis.bundle",
+            "MainBundleSize": 1282059,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto.xaml",
+                    "AssetGUID": "c5b2a75e4a934e6a9d9429e42af24d9b"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-Black.ttf",
+                    "AssetGUID": "e390b85783a914745a14d88d497240fe"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-BlackItalic.ttf",
+                    "AssetGUID": "e29681940f712d747af50635c14d1512"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-Bold.ttf",
+                    "AssetGUID": "376071b13106c1e468833508bdd5b814"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-BoldItalic.ttf",
+                    "AssetGUID": "8f5a1ee4705ca7746906dca774f2df71"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-Italic.ttf",
+                    "AssetGUID": "b1a05b450f248a443b9fe8ac719be1dc"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-Light.ttf",
+                    "AssetGUID": "020fe7c6ca5f14e44a6670be1d87c072"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-LightItalic.ttf",
+                    "AssetGUID": "c9d050132e8435849b55db2093f81c97"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-Medium.ttf",
+                    "AssetGUID": "30183e9645f5c0e4aac28dccb274ec3b"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-MediumItalic.ttf",
+                    "AssetGUID": "c95fd08a75ba2c54589b6793fc3d125b"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-Regular.ttf",
+                    "AssetGUID": "4a9d2f92b1a928740ab408f3e400bbb4"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-Thin.ttf",
+                    "AssetGUID": "f9249d1e2f25678469ba0f4722c789a5"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-ThinItalic.ttf",
+                    "AssetGUID": "567c9e3ed06cff54186a4c44fe0840cd"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/DesignSystem/Buttons.xaml",
+                    "AssetGUID": "4b65a002362441608f59d591e8139e7f"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/DesignSystem/Controls.xaml",
+                    "AssetGUID": "57acffbb31ce45ac9af37b93629c23e9"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/DesignSystem/DesignSystem.xaml",
+                    "AssetGUID": "33b51bf6e31d4b468ac25db4deae0afe"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/DesignSystem/Feedback.xaml",
+                    "AssetGUID": "30c04ff0672b42189e3e7d38527fd3b7"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/DesignSystem/Surfaces.xaml",
+                    "AssetGUID": "943626afc3084c61b338842bb8712e8f"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/DesignSystem/Tokens.xaml",
+                    "AssetGUID": "52cfb249a68f490fb1e0a4583ee269f6"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/DesignSystem/Typography.xaml",
+                    "AssetGUID": "9adcef6117904d839214507d2e55a57e"
+                }
+            ],
+            "DependBundles": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets__project_resources_gui_messagewindow_messagewindownoesis.bundle",
+            "FileName": "bf3643891c47394717eaf4559747819e.bundle",
+            "FileHash": "bf3643891c47394717eaf4559747819e",
+            "FileCRC": 1962204390,
+            "FileSize": 1282059,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto.xaml",
+                    "AssetGUID": "c5b2a75e4a934e6a9d9429e42af24d9b"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-Black.ttf",
+                    "AssetGUID": "e390b85783a914745a14d88d497240fe"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-BlackItalic.ttf",
+                    "AssetGUID": "e29681940f712d747af50635c14d1512"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-Bold.ttf",
+                    "AssetGUID": "376071b13106c1e468833508bdd5b814"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-BoldItalic.ttf",
+                    "AssetGUID": "8f5a1ee4705ca7746906dca774f2df71"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-Italic.ttf",
+                    "AssetGUID": "b1a05b450f248a443b9fe8ac719be1dc"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-Light.ttf",
+                    "AssetGUID": "020fe7c6ca5f14e44a6670be1d87c072"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-LightItalic.ttf",
+                    "AssetGUID": "c9d050132e8435849b55db2093f81c97"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-Medium.ttf",
+                    "AssetGUID": "30183e9645f5c0e4aac28dccb274ec3b"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-MediumItalic.ttf",
+                    "AssetGUID": "c95fd08a75ba2c54589b6793fc3d125b"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-Regular.ttf",
+                    "AssetGUID": "4a9d2f92b1a928740ab408f3e400bbb4"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-Thin.ttf",
+                    "AssetGUID": "f9249d1e2f25678469ba0f4722c789a5"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/Fonts/Roboto/Roboto-ThinItalic.ttf",
+                    "AssetGUID": "567c9e3ed06cff54186a4c44fe0840cd"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/DesignSystem/Buttons.xaml",
+                    "AssetGUID": "4b65a002362441608f59d591e8139e7f"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/DesignSystem/Controls.xaml",
+                    "AssetGUID": "57acffbb31ce45ac9af37b93629c23e9"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/DesignSystem/DesignSystem.xaml",
+                    "AssetGUID": "33b51bf6e31d4b468ac25db4deae0afe"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/DesignSystem/Feedback.xaml",
+                    "AssetGUID": "30c04ff0672b42189e3e7d38527fd3b7"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/DesignSystem/Surfaces.xaml",
+                    "AssetGUID": "943626afc3084c61b338842bb8712e8f"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/DesignSystem/Tokens.xaml",
+                    "AssetGUID": "52cfb249a68f490fb1e0a4583ee269f6"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/DesignSystem/Typography.xaml",
+                    "AssetGUID": "9adcef6117904d839214507d2e55a57e"
+                },
+                {
+                    "AssetPath": "Assets/_Project/Resources/GUI/MessageWindow/MessageWindowNoesis.xaml",
+                    "AssetGUID": "cd0cf5a7b42157fc7807507436305564"
+                }
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

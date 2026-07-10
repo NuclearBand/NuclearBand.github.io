@@ -1,0 +1,11 @@
+<linker>
+  <assembly fullname="Noesis.NoesisGUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="NoesisFont" preserve="all" />
+    <type fullname="NoesisXaml" preserve="all" />
+    <type fullname="NoesisXaml/Font" preserve="nothing" serialized="true" />
+    <type fullname="NoesisXaml/Xaml" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Object" preserve="all" />
+  </assembly>
+</linker>
