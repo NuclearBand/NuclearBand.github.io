@@ -1,0 +1,76 @@
+{
+    "Summary": {
+        "YooVersion": "2.3.19",
+        "UnityVersion": "6000.3.19f1",
+        "BuildDate": "07/11/2026 16:24:37",
+        "BuildSeconds": 12,
+        "BuildTarget": 20,
+        "BuildPipeline": "ScriptableBuildPipeline",
+        "BuildBundleType": 2,
+        "BuildPackageName": "MUDLocalization",
+        "BuildPackageVersion": "20260711132425",
+        "BuildPackageNote": "07/11/2026 16:24:25",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "SupportExtensionless": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": false,
+        "IgnoreRuleName": "YooAsset.Editor.RawFileIgnoreRule",
+        "ClearBuildCacheFiles": true,
+        "UseAssetDependencyDB": true,
+        "EnableSharePackRule": false,
+        "SingleReferencedPackAlone": true,
+        "EncryptionServicesClassName": "null",
+        "ManifestProcessServicesClassName": "null",
+        "ManifestRestoreServicesClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "ReplaceAssetPathWithAddress": false,
+        "WriteLinkXML": true,
+        "CacheServerHost": "",
+        "CacheServerPort": 0,
+        "BuiltinShadersBundleName": "",
+        "MonoScriptsBundleName": "",
+        "AssetFileTotalCount": 1,
+        "MainAssetTotalCount": 1,
+        "AllBundleTotalCount": 1,
+        "AllBundleTotalSize": 20616,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "Localization",
+            "AssetPath": "Assets/Temp/LocalizationYooAsset/Localization.bytes",
+            "AssetGUID": "3888f38b31866b464bceb243f24c874e",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_localizationyooasset_localization.bundle",
+            "MainBundleSize": 20616,
+            "DependAssets": [],
+            "DependBundles": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_temp_localizationyooasset_localization.bundle",
+            "FileName": "36034bdd30e20b7bc6efa1cd56c4ff0c.bundle",
+            "FileHash": "36034bdd30e20b7bc6efa1cd56c4ff0c",
+            "FileCRC": 1761867903,
+            "FileSize": 20616,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Temp/LocalizationYooAsset/Localization.bytes",
+                    "AssetGUID": "3888f38b31866b464bceb243f24c874e"
+                }
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

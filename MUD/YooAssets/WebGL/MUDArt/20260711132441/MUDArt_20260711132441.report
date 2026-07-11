@@ -1,0 +1,1605 @@
+{
+    "Summary": {
+        "YooVersion": "2.3.19",
+        "UnityVersion": "6000.3.19f1",
+        "BuildDate": "07/11/2026 16:24:46",
+        "BuildSeconds": 4,
+        "BuildTarget": 20,
+        "BuildPipeline": "ScriptableBuildPipeline",
+        "BuildBundleType": 2,
+        "BuildPackageName": "MUDArt",
+        "BuildPackageVersion": "20260711132441",
+        "BuildPackageNote": "07/11/2026 16:24:41",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "SupportExtensionless": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": false,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "ClearBuildCacheFiles": true,
+        "UseAssetDependencyDB": true,
+        "EnableSharePackRule": false,
+        "SingleReferencedPackAlone": true,
+        "EncryptionServicesClassName": "null",
+        "ManifestProcessServicesClassName": "null",
+        "ManifestRestoreServicesClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "ReplaceAssetPathWithAddress": false,
+        "WriteLinkXML": true,
+        "CacheServerHost": "",
+        "CacheServerPort": 0,
+        "BuiltinShadersBundleName": "",
+        "MonoScriptsBundleName": "",
+        "AssetFileTotalCount": 82,
+        "MainAssetTotalCount": 82,
+        "AllBundleTotalCount": 8,
+        "AllBundleTotalSize": 17197202,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "AuroraDump",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/AuroraDump.spriteatlas",
+            "AssetGUID": "0a6bd33609e0e6f0492e3237cba14dd6",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/bot.png",
+                    "AssetGUID": "9d263d7d028566a28afbcb58b36fdd7b"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/bot_c.png",
+                    "AssetGUID": "3bf845bf1af6be3eb89cec3876b9afbd"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/edward.png",
+                    "AssetGUID": "cbebc848bef52ac35af41d9cb14dff6c"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/edward_c.png",
+                    "AssetGUID": "62be7672625b419068d79fa4ec72e927"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/edward_h.png",
+                    "AssetGUID": "06cc8ba6499f9a6ca89bd3744f64e14c"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/edwardFootprintDown.png",
+                    "AssetGUID": "bd949686b187581e88c7edb412ab1cd7"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/edwardFootprintLeft.png",
+                    "AssetGUID": "3d304cf509deb459d8fffcd27685fad5"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/entranceIn.png",
+                    "AssetGUID": "a921a02262c57e8e0a3e08ab7b8fbcd9"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/entranceOut.png",
+                    "AssetGUID": "657b72fe8f0c3fd358bb1d088a5ed124"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/gatakeeper.png",
+                    "AssetGUID": "ab77250984195033ebf030e333d9e939"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/gatakeeper_c.png",
+                    "AssetGUID": "d57c2709acb82ef87b918b9a63e78aec"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/gatekeeper.png",
+                    "AssetGUID": "19006e8cc9e71c352b4a9da31d43d07b"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/gatekeeper_c.png",
+                    "AssetGUID": "928471f49caea7710a62770e30d220e3"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/junk.png",
+                    "AssetGUID": "aec71abc5fbed4b0a98805256add51d7"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/junkbot.png",
+                    "AssetGUID": "2c8b39db6cef5e9d8bba52f07dfbe0cd"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/junkbot_r.png",
+                    "AssetGUID": "c395b7cfbbb9e9a0bbf82c8233d7b918"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/junkbot_rm.png",
+                    "AssetGUID": "5866f07ac9272b95683933566780b1f3"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/megaherz.png",
+                    "AssetGUID": "e5a7cf3ef22d01928afd240de652df73"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/megaherz_c.png",
+                    "AssetGUID": "54783d73a3aadf89299948e59f11c808"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/megaherz_r.png",
+                    "AssetGUID": "2074ecb2b34971e52aad124264402c4c"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/megaherz_rm.png",
+                    "AssetGUID": "b8dbd6d9154593f7e9765e55059b1d18"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/red_wildbot.png",
+                    "AssetGUID": "40dc0a17db48e84c5a2d92ab907ee36b"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/red_wildbot_r.png",
+                    "AssetGUID": "724d181c6cb0a917aa746d5863ef194c"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/red_wildbot_rm.png",
+                    "AssetGUID": "f6a2e7b0df4db1aa38933cd934408e6d"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/rusty_npc.png",
+                    "AssetGUID": "3a16f3c25e4e7f85991cc7cd98c002a4"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/strange_junkbot.png",
+                    "AssetGUID": "71e45cd968142fa78813eb0425930ba0"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/strange_junkbot_c.png",
+                    "AssetGUID": "5eb72bdb4a3e4a559aaa724e69566df6"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/system.png",
+                    "AssetGUID": "ad655914f842e533fa0b7fae2f281d63"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/system_c.png",
+                    "AssetGUID": "471291dd40c11af1797a688472a7af2f"
+                }
+            ],
+            "DependBundles": []
+        },
+        {
+            "Address": "Awakening",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening.spriteatlas",
+            "AssetGUID": "11d07bb5918c2128999defac3d7ce325",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_awakening.bundle",
+            "MainBundleSize": 3264102,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening1.png",
+                    "AssetGUID": "e4c76e9cffd337fa1b47d081558d78b7"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening2.png",
+                    "AssetGUID": "76fd971827693d7b582de04c1affe018"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening3.png",
+                    "AssetGUID": "00a83cecca5f885e2ad84a7504381a1a"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening4.png",
+                    "AssetGUID": "efe80e37bb03761d8ac7fd2a07059cf0"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening5.png",
+                    "AssetGUID": "908b9287f5db3209f8ba249c7082d4c8"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening6.png",
+                    "AssetGUID": "7702199bf5bb5d439907718ec807ffd0"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening7.png",
+                    "AssetGUID": "cdb7d5d3b603bc4a39f0b07feaa76810"
+                }
+            ],
+            "DependBundles": []
+        },
+        {
+            "Address": "Awakening1",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening1.png",
+            "AssetGUID": "e4c76e9cffd337fa1b47d081558d78b7",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_awakening.bundle",
+            "MainBundleSize": 3264102,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Awakening2",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening2.png",
+            "AssetGUID": "76fd971827693d7b582de04c1affe018",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_awakening.bundle",
+            "MainBundleSize": 3264102,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Awakening3",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening3.png",
+            "AssetGUID": "00a83cecca5f885e2ad84a7504381a1a",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_awakening.bundle",
+            "MainBundleSize": 3264102,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Awakening4",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening4.png",
+            "AssetGUID": "efe80e37bb03761d8ac7fd2a07059cf0",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_awakening.bundle",
+            "MainBundleSize": 3264102,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Awakening5",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening5.png",
+            "AssetGUID": "908b9287f5db3209f8ba249c7082d4c8",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_awakening.bundle",
+            "MainBundleSize": 3264102,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Awakening6",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening6.png",
+            "AssetGUID": "7702199bf5bb5d439907718ec807ffd0",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_awakening.bundle",
+            "MainBundleSize": 3264102,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Awakening7",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening7.png",
+            "AssetGUID": "cdb7d5d3b603bc4a39f0b07feaa76810",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_awakening.bundle",
+            "MainBundleSize": 3264102,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "bot",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/bot.png",
+            "AssetGUID": "9d263d7d028566a28afbcb58b36fdd7b",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "bot_c",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/bot_c.png",
+            "AssetGUID": "3bf845bf1af6be3eb89cec3876b9afbd",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "edward",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/edward.png",
+            "AssetGUID": "cbebc848bef52ac35af41d9cb14dff6c",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "edward_c",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/edward_c.png",
+            "AssetGUID": "62be7672625b419068d79fa4ec72e927",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "edward_h",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/edward_h.png",
+            "AssetGUID": "06cc8ba6499f9a6ca89bd3744f64e14c",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "edwardFootprintDown",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/edwardFootprintDown.png",
+            "AssetGUID": "bd949686b187581e88c7edb412ab1cd7",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "edwardFootprintLeft",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/edwardFootprintLeft.png",
+            "AssetGUID": "3d304cf509deb459d8fffcd27685fad5",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "entranceIn",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/entranceIn.png",
+            "AssetGUID": "a921a02262c57e8e0a3e08ab7b8fbcd9",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "entranceOut",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/entranceOut.png",
+            "AssetGUID": "657b72fe8f0c3fd358bb1d088a5ed124",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "gatakeeper",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/gatakeeper.png",
+            "AssetGUID": "ab77250984195033ebf030e333d9e939",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "gatakeeper_c",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/gatakeeper_c.png",
+            "AssetGUID": "d57c2709acb82ef87b918b9a63e78aec",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "gatekeeper",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/gatekeeper.png",
+            "AssetGUID": "19006e8cc9e71c352b4a9da31d43d07b",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "gatekeeper_c",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/gatekeeper_c.png",
+            "AssetGUID": "928471f49caea7710a62770e30d220e3",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "junk",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/junk.png",
+            "AssetGUID": "aec71abc5fbed4b0a98805256add51d7",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "junkbot",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/junkbot.png",
+            "AssetGUID": "2c8b39db6cef5e9d8bba52f07dfbe0cd",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "junkbot_r",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/junkbot_r.png",
+            "AssetGUID": "c395b7cfbbb9e9a0bbf82c8233d7b918",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "junkbot_rm",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/junkbot_rm.png",
+            "AssetGUID": "5866f07ac9272b95683933566780b1f3",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "megaherz",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/megaherz.png",
+            "AssetGUID": "e5a7cf3ef22d01928afd240de652df73",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "megaherz_c",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/megaherz_c.png",
+            "AssetGUID": "54783d73a3aadf89299948e59f11c808",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "megaherz_r",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/megaherz_r.png",
+            "AssetGUID": "2074ecb2b34971e52aad124264402c4c",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "megaherz_rm",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/megaherz_rm.png",
+            "AssetGUID": "b8dbd6d9154593f7e9765e55059b1d18",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "red_wildbot",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/red_wildbot.png",
+            "AssetGUID": "40dc0a17db48e84c5a2d92ab907ee36b",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "red_wildbot_r",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/red_wildbot_r.png",
+            "AssetGUID": "724d181c6cb0a917aa746d5863ef194c",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "red_wildbot_rm",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/red_wildbot_rm.png",
+            "AssetGUID": "f6a2e7b0df4db1aa38933cd934408e6d",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "rusty_npc",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/rusty_npc.png",
+            "AssetGUID": "3a16f3c25e4e7f85991cc7cd98c002a4",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "strange_junkbot",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/strange_junkbot.png",
+            "AssetGUID": "71e45cd968142fa78813eb0425930ba0",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "strange_junkbot_c",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/strange_junkbot_c.png",
+            "AssetGUID": "5eb72bdb4a3e4a559aaa724e69566df6",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "system",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/system.png",
+            "AssetGUID": "ad655914f842e533fa0b7fae2f281d63",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "system_c",
+            "AssetPath": "Assets/Temp/Art/AuroraDump/system_c.png",
+            "AssetGUID": "471291dd40c11af1797a688472a7af2f",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump.bundle",
+            "MainBundleSize": 8307943,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "AuroraDump_MindMap",
+            "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap.spriteatlas",
+            "AssetGUID": "d8cb7dbf12261513fb75682e918ae8a5",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_mindmap.bundle",
+            "MainBundleSize": 485928,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap1.png",
+                    "AssetGUID": "1cd942ca9e758990a92de7cf58cb72b7"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap10.png",
+                    "AssetGUID": "5bce563ff2ac98836a72b623ab67ee47"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap11.png",
+                    "AssetGUID": "6dc3238ad434c9edfab13a5b7c0fff2b"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap2.png",
+                    "AssetGUID": "2ceb21b86c208a7bfbf0d7a1f7db9475"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap3.png",
+                    "AssetGUID": "afdf3b948387afebfac9c0c449274b65"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap4.png",
+                    "AssetGUID": "5990e30821a986de4be8da5c78468703"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap5.png",
+                    "AssetGUID": "cb1ba704bab0b69ec96ec10440ee3b3b"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap6.png",
+                    "AssetGUID": "f9e51d62dbf36579d810bd03c5a043c1"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap7.png",
+                    "AssetGUID": "3ea8db0be90e0369cbc4f0e7bcfc5d2c"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap8.png",
+                    "AssetGUID": "0efa36e92a8964f8a9f482b83626fe7e"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap9.png",
+                    "AssetGUID": "1ddc074657ac84fd99c13d61a9893ba8"
+                }
+            ],
+            "DependBundles": []
+        },
+        {
+            "Address": "AuroraDump_MindMap1",
+            "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap1.png",
+            "AssetGUID": "1cd942ca9e758990a92de7cf58cb72b7",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_mindmap.bundle",
+            "MainBundleSize": 485928,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "AuroraDump_MindMap10",
+            "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap10.png",
+            "AssetGUID": "5bce563ff2ac98836a72b623ab67ee47",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_mindmap.bundle",
+            "MainBundleSize": 485928,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "AuroraDump_MindMap11",
+            "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap11.png",
+            "AssetGUID": "6dc3238ad434c9edfab13a5b7c0fff2b",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_mindmap.bundle",
+            "MainBundleSize": 485928,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "AuroraDump_MindMap2",
+            "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap2.png",
+            "AssetGUID": "2ceb21b86c208a7bfbf0d7a1f7db9475",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_mindmap.bundle",
+            "MainBundleSize": 485928,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "AuroraDump_MindMap3",
+            "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap3.png",
+            "AssetGUID": "afdf3b948387afebfac9c0c449274b65",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_mindmap.bundle",
+            "MainBundleSize": 485928,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "AuroraDump_MindMap4",
+            "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap4.png",
+            "AssetGUID": "5990e30821a986de4be8da5c78468703",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_mindmap.bundle",
+            "MainBundleSize": 485928,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "AuroraDump_MindMap5",
+            "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap5.png",
+            "AssetGUID": "cb1ba704bab0b69ec96ec10440ee3b3b",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_mindmap.bundle",
+            "MainBundleSize": 485928,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "AuroraDump_MindMap6",
+            "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap6.png",
+            "AssetGUID": "f9e51d62dbf36579d810bd03c5a043c1",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_mindmap.bundle",
+            "MainBundleSize": 485928,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "AuroraDump_MindMap7",
+            "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap7.png",
+            "AssetGUID": "3ea8db0be90e0369cbc4f0e7bcfc5d2c",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_mindmap.bundle",
+            "MainBundleSize": 485928,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "AuroraDump_MindMap8",
+            "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap8.png",
+            "AssetGUID": "0efa36e92a8964f8a9f482b83626fe7e",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_mindmap.bundle",
+            "MainBundleSize": 485928,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "AuroraDump_MindMap9",
+            "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap9.png",
+            "AssetGUID": "1ddc074657ac84fd99c13d61a9893ba8",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_auroradump_mindmap.bundle",
+            "MainBundleSize": 485928,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Characters",
+            "AssetPath": "Assets/Temp/Art/Characters/Characters.spriteatlas",
+            "AssetGUID": "449552c65a9cbf0ca86e4599f6f70a17",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_characters.bundle",
+            "MainBundleSize": 1513861,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/robot.png",
+                    "AssetGUID": "6afa8df7d89cbb3e5858bce0fc4e44cf"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/robot_c.png",
+                    "AssetGUID": "e71cb56499f919b7388d62924f32f92f"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/robot_h.png",
+                    "AssetGUID": "8ec575a6c6b6dcd969a503287a94bb98"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/robot_rm.png",
+                    "AssetGUID": "464fbd958326bbfa3b97f5fae8beafcf"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/rusty.png",
+                    "AssetGUID": "1a8540a7b7f5ade02bd2c1a54ab11917"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/rusty_c.png",
+                    "AssetGUID": "76488092ab725f5fb87fd3e43198887b"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/rusty_h.png",
+                    "AssetGUID": "9380ecadd2c2a5682841c772fe1cf44d"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/rusty_rm.png",
+                    "AssetGUID": "f949a6e7b34e6092d993d1ee88dd7f44"
+                }
+            ],
+            "DependBundles": []
+        },
+        {
+            "Address": "robot",
+            "AssetPath": "Assets/Temp/Art/Characters/robot.png",
+            "AssetGUID": "6afa8df7d89cbb3e5858bce0fc4e44cf",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_characters.bundle",
+            "MainBundleSize": 1513861,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "robot_c",
+            "AssetPath": "Assets/Temp/Art/Characters/robot_c.png",
+            "AssetGUID": "e71cb56499f919b7388d62924f32f92f",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_characters.bundle",
+            "MainBundleSize": 1513861,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "robot_h",
+            "AssetPath": "Assets/Temp/Art/Characters/robot_h.png",
+            "AssetGUID": "8ec575a6c6b6dcd969a503287a94bb98",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_characters.bundle",
+            "MainBundleSize": 1513861,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "robot_rm",
+            "AssetPath": "Assets/Temp/Art/Characters/robot_rm.png",
+            "AssetGUID": "464fbd958326bbfa3b97f5fae8beafcf",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_characters.bundle",
+            "MainBundleSize": 1513861,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "rusty",
+            "AssetPath": "Assets/Temp/Art/Characters/rusty.png",
+            "AssetGUID": "1a8540a7b7f5ade02bd2c1a54ab11917",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_characters.bundle",
+            "MainBundleSize": 1513861,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "rusty_c",
+            "AssetPath": "Assets/Temp/Art/Characters/rusty_c.png",
+            "AssetGUID": "76488092ab725f5fb87fd3e43198887b",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_characters.bundle",
+            "MainBundleSize": 1513861,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "rusty_h",
+            "AssetPath": "Assets/Temp/Art/Characters/rusty_h.png",
+            "AssetGUID": "9380ecadd2c2a5682841c772fe1cf44d",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_characters.bundle",
+            "MainBundleSize": 1513861,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "rusty_rm",
+            "AssetPath": "Assets/Temp/Art/Characters/rusty_rm.png",
+            "AssetGUID": "f949a6e7b34e6092d993d1ee88dd7f44",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_characters.bundle",
+            "MainBundleSize": 1513861,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "battery",
+            "AssetPath": "Assets/Temp/Art/Items/battery.png",
+            "AssetGUID": "a110048735c404b51b3c35fe3e4201da",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_items.bundle",
+            "MainBundleSize": 178416,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "doorItem",
+            "AssetPath": "Assets/Temp/Art/Items/doorItem.png",
+            "AssetGUID": "a88a025d9a44b5c8892566dfbe64d71d",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_items.bundle",
+            "MainBundleSize": 178416,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "edwardItem",
+            "AssetPath": "Assets/Temp/Art/Items/edwardItem.png",
+            "AssetGUID": "6b0c9c10a22b1e75c98dcd8923f9da3a",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_items.bundle",
+            "MainBundleSize": 178416,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "exp_big",
+            "AssetPath": "Assets/Temp/Art/Items/exp_big.png",
+            "AssetGUID": "1873e2cecc8b406b8ac8068c9decbf70",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_items.bundle",
+            "MainBundleSize": 178416,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "exp_small",
+            "AssetPath": "Assets/Temp/Art/Items/exp_small.png",
+            "AssetGUID": "89364fa92da65a90280ae65c0b33a3c1",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_items.bundle",
+            "MainBundleSize": 178416,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Items",
+            "AssetPath": "Assets/Temp/Art/Items/Items.spriteatlas",
+            "AssetGUID": "15396909efadabcaa824ef15fd535160",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_items.bundle",
+            "MainBundleSize": 178416,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/battery.png",
+                    "AssetGUID": "a110048735c404b51b3c35fe3e4201da"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/doorItem.png",
+                    "AssetGUID": "a88a025d9a44b5c8892566dfbe64d71d"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/edwardItem.png",
+                    "AssetGUID": "6b0c9c10a22b1e75c98dcd8923f9da3a"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/exp_big.png",
+                    "AssetGUID": "1873e2cecc8b406b8ac8068c9decbf70"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/exp_small.png",
+                    "AssetGUID": "89364fa92da65a90280ae65c0b33a3c1"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/rustyItem.png",
+                    "AssetGUID": "c0b7be529967a370c8ea2e7b3fca88a7"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/weapon1.png",
+                    "AssetGUID": "5bb85c40a0bbf90db9dffa279482f7d4"
+                }
+            ],
+            "DependBundles": []
+        },
+        {
+            "Address": "rustyItem",
+            "AssetPath": "Assets/Temp/Art/Items/rustyItem.png",
+            "AssetGUID": "c0b7be529967a370c8ea2e7b3fca88a7",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_items.bundle",
+            "MainBundleSize": 178416,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "weapon1",
+            "AssetPath": "Assets/Temp/Art/Items/weapon1.png",
+            "AssetGUID": "5bb85c40a0bbf90db9dffa279482f7d4",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_items.bundle",
+            "MainBundleSize": 178416,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Loading",
+            "AssetPath": "Assets/Temp/Art/Loading/Loading.spriteatlas",
+            "AssetGUID": "261da6c7b5624ab93b26b3337ecf631d",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_loading.bundle",
+            "MainBundleSize": 2882066,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Temp/Art/Loading/LoadingArt.png",
+                    "AssetGUID": "01a1568ee49007985a8082684c8dba77"
+                }
+            ],
+            "DependBundles": []
+        },
+        {
+            "Address": "LoadingArt",
+            "AssetPath": "Assets/Temp/Art/Loading/LoadingArt.png",
+            "AssetGUID": "01a1568ee49007985a8082684c8dba77",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_loading.bundle",
+            "MainBundleSize": 2882066,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "AuroraDumpJunk",
+            "AssetPath": "Assets/Temp/Art/Resources/AuroraDumpJunk.png",
+            "AssetGUID": "1e6535118aece02ca8db6bd915a669fc",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_resources.bundle",
+            "MainBundleSize": 26956,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Resources",
+            "AssetPath": "Assets/Temp/Art/Resources/Resources.spriteatlas",
+            "AssetGUID": "3b01321b82f28ed48a1bd80c69721c10",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_resources.bundle",
+            "MainBundleSize": 26956,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Temp/Art/Resources/AuroraDumpJunk.png",
+                    "AssetGUID": "1e6535118aece02ca8db6bd915a669fc"
+                }
+            ],
+            "DependBundles": []
+        },
+        {
+            "Address": "gearsIcon",
+            "AssetPath": "Assets/Temp/Art/Skills/gearsIcon.png",
+            "AssetGUID": "55823ce2432a11f6bac9743b0e909f2d",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_skills.bundle",
+            "MainBundleSize": 537930,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "robotSkill1",
+            "AssetPath": "Assets/Temp/Art/Skills/robotSkill1.png",
+            "AssetGUID": "a621f45e5fc0da70fae64888610c8229",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_skills.bundle",
+            "MainBundleSize": 537930,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "robotSkill2",
+            "AssetPath": "Assets/Temp/Art/Skills/robotSkill2.png",
+            "AssetGUID": "b7c496f07c32cc067aac49bc33b886f1",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_skills.bundle",
+            "MainBundleSize": 537930,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "robotSkill3",
+            "AssetPath": "Assets/Temp/Art/Skills/robotSkill3.png",
+            "AssetGUID": "136172a59a4d4fb5288ec5639ecc63d6",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_skills.bundle",
+            "MainBundleSize": 537930,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "robotSkill4",
+            "AssetPath": "Assets/Temp/Art/Skills/robotSkill4.png",
+            "AssetGUID": "0e9c2cf0d250e62fa9ff3a3238e2928f",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_skills.bundle",
+            "MainBundleSize": 537930,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "rustySkill1",
+            "AssetPath": "Assets/Temp/Art/Skills/rustySkill1.png",
+            "AssetGUID": "fa57db1e8d34873628f3b1f545f57fee",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_skills.bundle",
+            "MainBundleSize": 537930,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "rustySkill2",
+            "AssetPath": "Assets/Temp/Art/Skills/rustySkill2.png",
+            "AssetGUID": "82f5de4eee6aa2546a26f43c4a886179",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_skills.bundle",
+            "MainBundleSize": 537930,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "rustySkill3",
+            "AssetPath": "Assets/Temp/Art/Skills/rustySkill3.png",
+            "AssetGUID": "1719c89187951890cb65561bc5bb5129",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_skills.bundle",
+            "MainBundleSize": 537930,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "rustySkill4",
+            "AssetPath": "Assets/Temp/Art/Skills/rustySkill4.png",
+            "AssetGUID": "677bf6fea79762ce4b40b677ede9b984",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_skills.bundle",
+            "MainBundleSize": 537930,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Skills",
+            "AssetPath": "Assets/Temp/Art/Skills/Skills.spriteatlas",
+            "AssetGUID": "a44ad1c9ee568a48b9fd7ef05115f678",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_skills.bundle",
+            "MainBundleSize": 537930,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/gearsIcon.png",
+                    "AssetGUID": "55823ce2432a11f6bac9743b0e909f2d"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/robotSkill1.png",
+                    "AssetGUID": "a621f45e5fc0da70fae64888610c8229"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/robotSkill2.png",
+                    "AssetGUID": "b7c496f07c32cc067aac49bc33b886f1"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/robotSkill3.png",
+                    "AssetGUID": "136172a59a4d4fb5288ec5639ecc63d6"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/robotSkill4.png",
+                    "AssetGUID": "0e9c2cf0d250e62fa9ff3a3238e2928f"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/rustySkill1.png",
+                    "AssetGUID": "fa57db1e8d34873628f3b1f545f57fee"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/rustySkill2.png",
+                    "AssetGUID": "82f5de4eee6aa2546a26f43c4a886179"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/rustySkill3.png",
+                    "AssetGUID": "1719c89187951890cb65561bc5bb5129"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/rustySkill4.png",
+                    "AssetGUID": "677bf6fea79762ce4b40b677ede9b984"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/targetIcon.png",
+                    "AssetGUID": "cb44ddad43b1fe50995fa8a28f3f37eb"
+                }
+            ],
+            "DependBundles": []
+        },
+        {
+            "Address": "targetIcon",
+            "AssetPath": "Assets/Temp/Art/Skills/targetIcon.png",
+            "AssetGUID": "cb44ddad43b1fe50995fa8a28f3f37eb",
+            "AssetTags": [],
+            "MainBundleName": "assets_temp_art_skills.bundle",
+            "MainBundleSize": 537930,
+            "DependAssets": [],
+            "DependBundles": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_temp_art_auroradump.bundle",
+            "FileName": "08dc9096c815baee3866a53058517d58.bundle",
+            "FileHash": "08dc9096c815baee3866a53058517d58",
+            "FileCRC": 99705871,
+            "FileSize": 8307943,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/AuroraDump.spriteatlas",
+                    "AssetGUID": "0a6bd33609e0e6f0492e3237cba14dd6"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/bot.png",
+                    "AssetGUID": "9d263d7d028566a28afbcb58b36fdd7b"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/bot_c.png",
+                    "AssetGUID": "3bf845bf1af6be3eb89cec3876b9afbd"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/edward.png",
+                    "AssetGUID": "cbebc848bef52ac35af41d9cb14dff6c"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/edward_c.png",
+                    "AssetGUID": "62be7672625b419068d79fa4ec72e927"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/edward_h.png",
+                    "AssetGUID": "06cc8ba6499f9a6ca89bd3744f64e14c"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/edwardFootprintDown.png",
+                    "AssetGUID": "bd949686b187581e88c7edb412ab1cd7"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/edwardFootprintLeft.png",
+                    "AssetGUID": "3d304cf509deb459d8fffcd27685fad5"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/entranceIn.png",
+                    "AssetGUID": "a921a02262c57e8e0a3e08ab7b8fbcd9"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/entranceOut.png",
+                    "AssetGUID": "657b72fe8f0c3fd358bb1d088a5ed124"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/gatakeeper.png",
+                    "AssetGUID": "ab77250984195033ebf030e333d9e939"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/gatakeeper_c.png",
+                    "AssetGUID": "d57c2709acb82ef87b918b9a63e78aec"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/gatekeeper.png",
+                    "AssetGUID": "19006e8cc9e71c352b4a9da31d43d07b"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/gatekeeper_c.png",
+                    "AssetGUID": "928471f49caea7710a62770e30d220e3"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/junk.png",
+                    "AssetGUID": "aec71abc5fbed4b0a98805256add51d7"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/junkbot.png",
+                    "AssetGUID": "2c8b39db6cef5e9d8bba52f07dfbe0cd"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/junkbot_r.png",
+                    "AssetGUID": "c395b7cfbbb9e9a0bbf82c8233d7b918"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/junkbot_rm.png",
+                    "AssetGUID": "5866f07ac9272b95683933566780b1f3"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/megaherz.png",
+                    "AssetGUID": "e5a7cf3ef22d01928afd240de652df73"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/megaherz_c.png",
+                    "AssetGUID": "54783d73a3aadf89299948e59f11c808"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/megaherz_r.png",
+                    "AssetGUID": "2074ecb2b34971e52aad124264402c4c"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/megaherz_rm.png",
+                    "AssetGUID": "b8dbd6d9154593f7e9765e55059b1d18"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/red_wildbot.png",
+                    "AssetGUID": "40dc0a17db48e84c5a2d92ab907ee36b"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/red_wildbot_r.png",
+                    "AssetGUID": "724d181c6cb0a917aa746d5863ef194c"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/red_wildbot_rm.png",
+                    "AssetGUID": "f6a2e7b0df4db1aa38933cd934408e6d"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/rusty_npc.png",
+                    "AssetGUID": "3a16f3c25e4e7f85991cc7cd98c002a4"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/strange_junkbot.png",
+                    "AssetGUID": "71e45cd968142fa78813eb0425930ba0"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/strange_junkbot_c.png",
+                    "AssetGUID": "5eb72bdb4a3e4a559aaa724e69566df6"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/system.png",
+                    "AssetGUID": "ad655914f842e533fa0b7fae2f281d63"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/system_c.png",
+                    "AssetGUID": "471291dd40c11af1797a688472a7af2f"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_temp_art_auroradump_awakening.bundle",
+            "FileName": "b996a2fcdca801fc908efe4ae9ab94ff.bundle",
+            "FileHash": "b996a2fcdca801fc908efe4ae9ab94ff",
+            "FileCRC": 2801263745,
+            "FileSize": 3264102,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening.spriteatlas",
+                    "AssetGUID": "11d07bb5918c2128999defac3d7ce325"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening1.png",
+                    "AssetGUID": "e4c76e9cffd337fa1b47d081558d78b7"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening2.png",
+                    "AssetGUID": "76fd971827693d7b582de04c1affe018"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening3.png",
+                    "AssetGUID": "00a83cecca5f885e2ad84a7504381a1a"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening4.png",
+                    "AssetGUID": "efe80e37bb03761d8ac7fd2a07059cf0"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening5.png",
+                    "AssetGUID": "908b9287f5db3209f8ba249c7082d4c8"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening6.png",
+                    "AssetGUID": "7702199bf5bb5d439907718ec807ffd0"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump/Awakening/Awakening7.png",
+                    "AssetGUID": "cdb7d5d3b603bc4a39f0b07feaa76810"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_temp_art_auroradump_mindmap.bundle",
+            "FileName": "81659a7dff76f55ab45a6419b07b2890.bundle",
+            "FileHash": "81659a7dff76f55ab45a6419b07b2890",
+            "FileCRC": 1410430756,
+            "FileSize": 485928,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap.spriteatlas",
+                    "AssetGUID": "d8cb7dbf12261513fb75682e918ae8a5"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap1.png",
+                    "AssetGUID": "1cd942ca9e758990a92de7cf58cb72b7"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap10.png",
+                    "AssetGUID": "5bce563ff2ac98836a72b623ab67ee47"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap11.png",
+                    "AssetGUID": "6dc3238ad434c9edfab13a5b7c0fff2b"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap2.png",
+                    "AssetGUID": "2ceb21b86c208a7bfbf0d7a1f7db9475"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap3.png",
+                    "AssetGUID": "afdf3b948387afebfac9c0c449274b65"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap4.png",
+                    "AssetGUID": "5990e30821a986de4be8da5c78468703"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap5.png",
+                    "AssetGUID": "cb1ba704bab0b69ec96ec10440ee3b3b"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap6.png",
+                    "AssetGUID": "f9e51d62dbf36579d810bd03c5a043c1"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap7.png",
+                    "AssetGUID": "3ea8db0be90e0369cbc4f0e7bcfc5d2c"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap8.png",
+                    "AssetGUID": "0efa36e92a8964f8a9f482b83626fe7e"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/AuroraDump_MindMap/AuroraDump_MindMap9.png",
+                    "AssetGUID": "1ddc074657ac84fd99c13d61a9893ba8"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_temp_art_characters.bundle",
+            "FileName": "aa577c003ce47f56cc589f5b26c6cb74.bundle",
+            "FileHash": "aa577c003ce47f56cc589f5b26c6cb74",
+            "FileCRC": 2183086620,
+            "FileSize": 1513861,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/Characters.spriteatlas",
+                    "AssetGUID": "449552c65a9cbf0ca86e4599f6f70a17"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/robot.png",
+                    "AssetGUID": "6afa8df7d89cbb3e5858bce0fc4e44cf"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/robot_c.png",
+                    "AssetGUID": "e71cb56499f919b7388d62924f32f92f"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/robot_h.png",
+                    "AssetGUID": "8ec575a6c6b6dcd969a503287a94bb98"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/robot_rm.png",
+                    "AssetGUID": "464fbd958326bbfa3b97f5fae8beafcf"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/rusty.png",
+                    "AssetGUID": "1a8540a7b7f5ade02bd2c1a54ab11917"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/rusty_c.png",
+                    "AssetGUID": "76488092ab725f5fb87fd3e43198887b"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/rusty_h.png",
+                    "AssetGUID": "9380ecadd2c2a5682841c772fe1cf44d"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Characters/rusty_rm.png",
+                    "AssetGUID": "f949a6e7b34e6092d993d1ee88dd7f44"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_temp_art_items.bundle",
+            "FileName": "46133e6e42dc5de1962b6f68aeb7a856.bundle",
+            "FileHash": "46133e6e42dc5de1962b6f68aeb7a856",
+            "FileCRC": 1862530260,
+            "FileSize": 178416,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/battery.png",
+                    "AssetGUID": "a110048735c404b51b3c35fe3e4201da"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/doorItem.png",
+                    "AssetGUID": "a88a025d9a44b5c8892566dfbe64d71d"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/edwardItem.png",
+                    "AssetGUID": "6b0c9c10a22b1e75c98dcd8923f9da3a"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/exp_big.png",
+                    "AssetGUID": "1873e2cecc8b406b8ac8068c9decbf70"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/exp_small.png",
+                    "AssetGUID": "89364fa92da65a90280ae65c0b33a3c1"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/Items.spriteatlas",
+                    "AssetGUID": "15396909efadabcaa824ef15fd535160"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/rustyItem.png",
+                    "AssetGUID": "c0b7be529967a370c8ea2e7b3fca88a7"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Items/weapon1.png",
+                    "AssetGUID": "5bb85c40a0bbf90db9dffa279482f7d4"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_temp_art_loading.bundle",
+            "FileName": "e59298c3c6a72ceceb9e243bf2c958b0.bundle",
+            "FileHash": "e59298c3c6a72ceceb9e243bf2c958b0",
+            "FileCRC": 441250785,
+            "FileSize": 2882066,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Temp/Art/Loading/Loading.spriteatlas",
+                    "AssetGUID": "261da6c7b5624ab93b26b3337ecf631d"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Loading/LoadingArt.png",
+                    "AssetGUID": "01a1568ee49007985a8082684c8dba77"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_temp_art_resources.bundle",
+            "FileName": "9bd29c8d174f93c56848f53e21264bcb.bundle",
+            "FileHash": "9bd29c8d174f93c56848f53e21264bcb",
+            "FileCRC": 1375150081,
+            "FileSize": 26956,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Temp/Art/Resources/AuroraDumpJunk.png",
+                    "AssetGUID": "1e6535118aece02ca8db6bd915a669fc"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Resources/Resources.spriteatlas",
+                    "AssetGUID": "3b01321b82f28ed48a1bd80c69721c10"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_temp_art_skills.bundle",
+            "FileName": "29ee35d5510ca91db8c1f5e1dded9d4b.bundle",
+            "FileHash": "29ee35d5510ca91db8c1f5e1dded9d4b",
+            "FileCRC": 243019688,
+            "FileSize": 537930,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/gearsIcon.png",
+                    "AssetGUID": "55823ce2432a11f6bac9743b0e909f2d"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/robotSkill1.png",
+                    "AssetGUID": "a621f45e5fc0da70fae64888610c8229"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/robotSkill2.png",
+                    "AssetGUID": "b7c496f07c32cc067aac49bc33b886f1"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/robotSkill3.png",
+                    "AssetGUID": "136172a59a4d4fb5288ec5639ecc63d6"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/robotSkill4.png",
+                    "AssetGUID": "0e9c2cf0d250e62fa9ff3a3238e2928f"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/rustySkill1.png",
+                    "AssetGUID": "fa57db1e8d34873628f3b1f545f57fee"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/rustySkill2.png",
+                    "AssetGUID": "82f5de4eee6aa2546a26f43c4a886179"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/rustySkill3.png",
+                    "AssetGUID": "1719c89187951890cb65561bc5bb5129"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/rustySkill4.png",
+                    "AssetGUID": "677bf6fea79762ce4b40b677ede9b984"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/Skills.spriteatlas",
+                    "AssetGUID": "a44ad1c9ee568a48b9fd7ef05115f678"
+                },
+                {
+                    "AssetPath": "Assets/Temp/Art/Skills/targetIcon.png",
+                    "AssetGUID": "cb44ddad43b1fe50995fa8a28f3f37eb"
+                }
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

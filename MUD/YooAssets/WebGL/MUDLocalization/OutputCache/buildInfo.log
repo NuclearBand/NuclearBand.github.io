@@ -1,0 +1,35 @@
+﻿2026-07-11 16:24:25.243 [INFO] Begin to build package : MUDLocalization by ScriptableBuildPipeline
+2026-07-11 16:24:25.244 [INFO] --------------------------------------------->TaskPrepare<--------------------------------------------
+2026-07-11 16:24:25.468 [INFO] Create pipeline output directory: /home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/WebGL/MUDLocalization/OutputCache
+2026-07-11 16:24:25.469 [WARN] [ErrorCode131] Builtin shaders bundle name is null. It will cause resource redundancy !
+2026-07-11 16:24:25.469 [INFO] TaskPrepare It takes 0 seconds in total
+2026-07-11 16:24:25.469 [INFO] --------------------------------------------->TaskGetBuildMap<--------------------------------------------
+2026-07-11 16:24:25.814 [INFO] TaskGetBuildMap It takes 0 seconds in total
+2026-07-11 16:24:25.814 [INFO] --------------------------------------------->TaskBuilding<--------------------------------------------
+2026-07-11 16:24:37.896 [INFO] UnityEngine build success!
+2026-07-11 16:24:37.896 [INFO] TaskBuilding It takes 12 seconds in total
+2026-07-11 16:24:37.897 [INFO] --------------------------------------------->TaskVerifyBuildResult<--------------------------------------------
+2026-07-11 16:24:37.898 [INFO] Build results verify success!
+2026-07-11 16:24:37.898 [INFO] TaskVerifyBuildResult It takes 0 seconds in total
+2026-07-11 16:24:37.898 [INFO] --------------------------------------------->TaskEncryption<--------------------------------------------
+2026-07-11 16:24:37.899 [INFO] TaskEncryption It takes 0 seconds in total
+2026-07-11 16:24:37.899 [INFO] --------------------------------------------->TaskUpdateBundleInfo<--------------------------------------------
+2026-07-11 16:24:37.902 [INFO] TaskUpdateBundleInfo It takes 0 seconds in total
+2026-07-11 16:24:37.902 [INFO] --------------------------------------------->TaskCreateManifest<--------------------------------------------
+2026-07-11 16:24:37.913 [INFO] Create package manifest file: /home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/WebGL/MUDLocalization/20260711132425/MUDLocalization_20260711132425.json
+2026-07-11 16:24:37.956 [INFO] Create package manifest file: /home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/WebGL/MUDLocalization/20260711132425/MUDLocalization_20260711132425.bytes
+2026-07-11 16:24:37.956 [INFO] Create package manifest hash file: /home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/WebGL/MUDLocalization/20260711132425/MUDLocalization_20260711132425.hash
+2026-07-11 16:24:37.957 [INFO] Create package manifest version file: /home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/WebGL/MUDLocalization/20260711132425/MUDLocalization.version
+2026-07-11 16:24:37.960 [INFO] TaskCreateManifest It takes 0 seconds in total
+2026-07-11 16:24:37.960 [INFO] --------------------------------------------->TaskCreateReport<--------------------------------------------
+2026-07-11 16:24:37.964 [INFO] Create build report file: /home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/WebGL/MUDLocalization/20260711132425/MUDLocalization_20260711132425.report
+2026-07-11 16:24:37.964 [INFO] TaskCreateReport It takes 0 seconds in total
+2026-07-11 16:24:37.965 [INFO] --------------------------------------------->TaskCreatePackage<--------------------------------------------
+2026-07-11 16:24:37.965 [INFO] Start making patch package: /home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/WebGL/MUDLocalization/20260711132425
+2026-07-11 16:24:37.966 [INFO] TaskCreatePackage It takes 0 seconds in total
+2026-07-11 16:24:37.966 [INFO] --------------------------------------------->TaskCopyBuildinFiles<--------------------------------------------
+2026-07-11 16:24:37.967 [INFO] TaskCopyBuildinFiles It takes 0 seconds in total
+2026-07-11 16:24:37.967 [INFO] --------------------------------------------->TaskCreateCatalog<--------------------------------------------
+2026-07-11 16:24:37.967 [INFO] TaskCreateCatalog It takes 0 seconds in total
+2026-07-11 16:24:37.967 [INFO] Total build process time: 12 seconds
+2026-07-11 16:24:37.967 [INFO] Resource pipeline build success

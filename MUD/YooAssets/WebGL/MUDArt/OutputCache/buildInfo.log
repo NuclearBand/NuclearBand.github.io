@@ -1,0 +1,35 @@
+﻿2026-07-11 16:24:41.629 [INFO] Begin to build package : MUDArt by ScriptableBuildPipeline
+2026-07-11 16:24:41.629 [INFO] --------------------------------------------->TaskPrepare<--------------------------------------------
+2026-07-11 16:24:41.632 [INFO] Create pipeline output directory: /home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/WebGL/MUDArt/OutputCache
+2026-07-11 16:24:41.632 [WARN] [ErrorCode131] Builtin shaders bundle name is null. It will cause resource redundancy !
+2026-07-11 16:24:41.632 [INFO] TaskPrepare It takes 0 seconds in total
+2026-07-11 16:24:41.632 [INFO] --------------------------------------------->TaskGetBuildMap<--------------------------------------------
+2026-07-11 16:24:41.681 [INFO] TaskGetBuildMap It takes 0 seconds in total
+2026-07-11 16:24:41.681 [INFO] --------------------------------------------->TaskBuilding<--------------------------------------------
+2026-07-11 16:24:45.796 [INFO] UnityEngine build success!
+2026-07-11 16:24:45.799 [INFO] TaskBuilding It takes 4 seconds in total
+2026-07-11 16:24:45.800 [INFO] --------------------------------------------->TaskVerifyBuildResult<--------------------------------------------
+2026-07-11 16:24:45.800 [INFO] Build results verify success!
+2026-07-11 16:24:45.800 [INFO] TaskVerifyBuildResult It takes 0 seconds in total
+2026-07-11 16:24:45.800 [INFO] --------------------------------------------->TaskEncryption<--------------------------------------------
+2026-07-11 16:24:45.800 [INFO] TaskEncryption It takes 0 seconds in total
+2026-07-11 16:24:45.800 [INFO] --------------------------------------------->TaskUpdateBundleInfo<--------------------------------------------
+2026-07-11 16:24:46.023 [INFO] TaskUpdateBundleInfo It takes 0 seconds in total
+2026-07-11 16:24:46.023 [INFO] --------------------------------------------->TaskCreateManifest<--------------------------------------------
+2026-07-11 16:24:46.035 [INFO] Create package manifest file: /home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/WebGL/MUDArt/20260711132441/MUDArt_20260711132441.json
+2026-07-11 16:24:46.165 [INFO] Create package manifest file: /home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/WebGL/MUDArt/20260711132441/MUDArt_20260711132441.bytes
+2026-07-11 16:24:46.165 [INFO] Create package manifest hash file: /home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/WebGL/MUDArt/20260711132441/MUDArt_20260711132441.hash
+2026-07-11 16:24:46.166 [INFO] Create package manifest version file: /home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/WebGL/MUDArt/20260711132441/MUDArt.version
+2026-07-11 16:24:46.166 [INFO] TaskCreateManifest It takes 0 seconds in total
+2026-07-11 16:24:46.166 [INFO] --------------------------------------------->TaskCreateReport<--------------------------------------------
+2026-07-11 16:24:46.182 [INFO] Create build report file: /home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/WebGL/MUDArt/20260711132441/MUDArt_20260711132441.report
+2026-07-11 16:24:46.183 [INFO] TaskCreateReport It takes 0 seconds in total
+2026-07-11 16:24:46.183 [INFO] --------------------------------------------->TaskCreatePackage<--------------------------------------------
+2026-07-11 16:24:46.183 [INFO] Start making patch package: /home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/WebGL/MUDArt/20260711132441
+2026-07-11 16:24:46.199 [INFO] TaskCreatePackage It takes 0 seconds in total
+2026-07-11 16:24:46.200 [INFO] --------------------------------------------->TaskCopyBuildinFiles<--------------------------------------------
+2026-07-11 16:24:46.206 [INFO] TaskCopyBuildinFiles It takes 0 seconds in total
+2026-07-11 16:24:46.206 [INFO] --------------------------------------------->TaskCreateCatalog<--------------------------------------------
+2026-07-11 16:24:46.206 [INFO] TaskCreateCatalog It takes 0 seconds in total
+2026-07-11 16:24:46.206 [INFO] Total build process time: 4 seconds
+2026-07-11 16:24:46.207 [INFO] Resource pipeline build success

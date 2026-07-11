@@ -1,0 +1,314 @@
+{
+    "Summary": {
+        "YooVersion": "2.3.19",
+        "UnityVersion": "6000.3.19f1",
+        "BuildDate": "07/11/2026 16:24:40",
+        "BuildSeconds": 0,
+        "BuildTarget": 20,
+        "BuildPipeline": "ScriptableBuildPipeline",
+        "BuildBundleType": 2,
+        "BuildPackageName": "MUDInk",
+        "BuildPackageVersion": "20260711132439",
+        "BuildPackageNote": "07/11/2026 16:24:39",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "SupportExtensionless": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": false,
+        "IgnoreRuleName": "YooAsset.Editor.RawFileIgnoreRule",
+        "ClearBuildCacheFiles": true,
+        "UseAssetDependencyDB": true,
+        "EnableSharePackRule": false,
+        "SingleReferencedPackAlone": true,
+        "EncryptionServicesClassName": "null",
+        "ManifestProcessServicesClassName": "null",
+        "ManifestRestoreServicesClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "ReplaceAssetPathWithAddress": false,
+        "WriteLinkXML": true,
+        "CacheServerHost": "",
+        "CacheServerPort": 0,
+        "BuiltinShadersBundleName": "",
+        "MonoScriptsBundleName": "",
+        "AssetFileTotalCount": 18,
+        "MainAssetTotalCount": 18,
+        "AllBundleTotalCount": 1,
+        "AllBundleTotalSize": 13785,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "conversation-edward-en",
+            "AssetPath": "Assets/InkJsons/conversation-edward-en.json",
+            "AssetGUID": "db04938df01bc504d814d669397e9ffc",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-edward-ru",
+            "AssetPath": "Assets/InkJsons/conversation-edward-ru.json",
+            "AssetGUID": "233f4db5f9e25d1edb095c546206d6da",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-gatekeeper-en",
+            "AssetPath": "Assets/InkJsons/conversation-gatekeeper-en.json",
+            "AssetGUID": "856bd504744bab4d4a724413f797daa2",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-gatekeeper-ru",
+            "AssetPath": "Assets/InkJsons/conversation-gatekeeper-ru.json",
+            "AssetGUID": "94ba7b90b55f263928011e7de7c4856d",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-rusty-en",
+            "AssetPath": "Assets/InkJsons/conversation-rusty-en.json",
+            "AssetGUID": "e1f68aa1e425a82709e5b05de648a74a",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-rusty-ru",
+            "AssetPath": "Assets/InkJsons/conversation-rusty-ru.json",
+            "AssetGUID": "2936b1670c8e27da29919b1c4c574402",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-self-diag-1-en",
+            "AssetPath": "Assets/InkJsons/conversation-self-diag-1-en.json",
+            "AssetGUID": "3823c7b02a9b2b3439fc22dbad4bf73a",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-self-diag-1-ru",
+            "AssetPath": "Assets/InkJsons/conversation-self-diag-1-ru.json",
+            "AssetGUID": "7120c09913654eb969a99c1fc4a17afa",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-self-diag-2-en",
+            "AssetPath": "Assets/InkJsons/conversation-self-diag-2-en.json",
+            "AssetGUID": "4555a9cc2b3f6986cb696e47fbd7e2f7",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-self-diag-2-ru",
+            "AssetPath": "Assets/InkJsons/conversation-self-diag-2-ru.json",
+            "AssetGUID": "1f74da2536598424d91bffec8e7b3d4f",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-self-diag-3-en",
+            "AssetPath": "Assets/InkJsons/conversation-self-diag-3-en.json",
+            "AssetGUID": "90c17f131dbb40e579a0623b7095a011",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-self-diag-3-ru",
+            "AssetPath": "Assets/InkJsons/conversation-self-diag-3-ru.json",
+            "AssetGUID": "1581051cbd0fb38bcb3cb763bf82feff",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-self-diag-4-en",
+            "AssetPath": "Assets/InkJsons/conversation-self-diag-4-en.json",
+            "AssetGUID": "2080a0e5e28a2131a823e2c3dc7c8bbc",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-self-diag-4-ru",
+            "AssetPath": "Assets/InkJsons/conversation-self-diag-4-ru.json",
+            "AssetGUID": "25444d10f41b97dfda6537f30835b6d4",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-self-diag-en",
+            "AssetPath": "Assets/InkJsons/conversation-self-diag-en.json",
+            "AssetGUID": "2704f613edd38995b8cf93ca99bc2595",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-self-diag-ru",
+            "AssetPath": "Assets/InkJsons/conversation-self-diag-ru.json",
+            "AssetGUID": "a0df81d3fe85c78359a48a2ada7721ae",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-strange-junkbot-en",
+            "AssetPath": "Assets/InkJsons/conversation-strange-junkbot-en.json",
+            "AssetGUID": "32eab3b2b05ec58f9a69b924ceb1f91e",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "conversation-strange-junkbot-ru",
+            "AssetPath": "Assets/InkJsons/conversation-strange-junkbot-ru.json",
+            "AssetGUID": "9893bbd68557f39c39415eefd00dbea3",
+            "AssetTags": [],
+            "MainBundleName": "assets_inkjsons.bundle",
+            "MainBundleSize": 13785,
+            "DependAssets": [],
+            "DependBundles": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_inkjsons.bundle",
+            "FileName": "85b8c9a34a54d4eff425aaa161f51663.bundle",
+            "FileHash": "85b8c9a34a54d4eff425aaa161f51663",
+            "FileCRC": 2129291522,
+            "FileSize": 13785,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-edward-en.json",
+                    "AssetGUID": "db04938df01bc504d814d669397e9ffc"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-edward-ru.json",
+                    "AssetGUID": "233f4db5f9e25d1edb095c546206d6da"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-gatekeeper-en.json",
+                    "AssetGUID": "856bd504744bab4d4a724413f797daa2"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-gatekeeper-ru.json",
+                    "AssetGUID": "94ba7b90b55f263928011e7de7c4856d"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-rusty-en.json",
+                    "AssetGUID": "e1f68aa1e425a82709e5b05de648a74a"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-rusty-ru.json",
+                    "AssetGUID": "2936b1670c8e27da29919b1c4c574402"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-self-diag-1-en.json",
+                    "AssetGUID": "3823c7b02a9b2b3439fc22dbad4bf73a"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-self-diag-1-ru.json",
+                    "AssetGUID": "7120c09913654eb969a99c1fc4a17afa"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-self-diag-2-en.json",
+                    "AssetGUID": "4555a9cc2b3f6986cb696e47fbd7e2f7"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-self-diag-2-ru.json",
+                    "AssetGUID": "1f74da2536598424d91bffec8e7b3d4f"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-self-diag-3-en.json",
+                    "AssetGUID": "90c17f131dbb40e579a0623b7095a011"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-self-diag-3-ru.json",
+                    "AssetGUID": "1581051cbd0fb38bcb3cb763bf82feff"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-self-diag-4-en.json",
+                    "AssetGUID": "2080a0e5e28a2131a823e2c3dc7c8bbc"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-self-diag-4-ru.json",
+                    "AssetGUID": "25444d10f41b97dfda6537f30835b6d4"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-self-diag-en.json",
+                    "AssetGUID": "2704f613edd38995b8cf93ca99bc2595"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-self-diag-ru.json",
+                    "AssetGUID": "a0df81d3fe85c78359a48a2ada7721ae"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-strange-junkbot-en.json",
+                    "AssetGUID": "32eab3b2b05ec58f9a69b924ceb1f91e"
+                },
+                {
+                    "AssetPath": "Assets/InkJsons/conversation-strange-junkbot-ru.json",
+                    "AssetGUID": "9893bbd68557f39c39415eefd00dbea3"
+                }
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

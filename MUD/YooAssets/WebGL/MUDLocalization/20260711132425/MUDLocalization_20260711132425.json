@@ -1,0 +1,36 @@
+{
+    "FileVersion": "2025.9.30",
+    "EnableAddressable": true,
+    "SupportExtensionless": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "ReplaceAssetPathWithAddress": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 2,
+    "BuildPipeline": "ScriptableBuildPipeline",
+    "PackageName": "MUDLocalization",
+    "PackageVersion": "20260711132425",
+    "PackageNote": "07/11/2026 16:24:25",
+    "AssetList": [
+        {
+            "Address": "Localization",
+            "AssetPath": "Assets/Temp/LocalizationYooAsset/Localization.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_temp_localizationyooasset_localization.bundle",
+            "UnityCRC": 1238991782,
+            "FileHash": "36034bdd30e20b7bc6efa1cd56c4ff0c",
+            "FileCRC": 1761867903,
+            "FileSize": 20616,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        }
+    ]
+}
