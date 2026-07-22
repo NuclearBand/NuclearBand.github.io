@@ -1,0 +1,35 @@
+﻿2026-07-20 23:13:33.936 [INFO] Building package 'MUDLocalization' with pipeline 'ScriptableBuildPipeline'.
+2026-07-20 23:13:33.936 [INFO] --------------------------------------------->TaskPrepare<--------------------------------------------
+2026-07-20 23:13:33.938 [WARN] [ErrorCode131] Builtin shaders bundle name is null. It will cause resource redundancy.
+2026-07-20 23:13:33.961 [INFO] Delete package root directory: '/home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/Android/MUDLocalization'.
+2026-07-20 23:13:33.962 [INFO] Create pipeline output directory: '/home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/Android/MUDLocalization/OutputCache'.
+2026-07-20 23:13:33.962 [INFO] TaskPrepare completed in 0 seconds.
+2026-07-20 23:13:33.962 [INFO] --------------------------------------------->TaskGetBuildMap<--------------------------------------------
+2026-07-20 23:13:34.049 [INFO] TaskGetBuildMap completed in 0 seconds.
+2026-07-20 23:13:34.049 [INFO] --------------------------------------------->TaskBuilding<--------------------------------------------
+2026-07-20 23:13:35.035 [INFO] UnityEngine build succeeded.
+2026-07-20 23:13:35.036 [INFO] TaskBuilding completed in 0 seconds.
+2026-07-20 23:13:35.036 [INFO] --------------------------------------------->TaskVerifyBuildResult<--------------------------------------------
+2026-07-20 23:13:35.037 [INFO] Build results verified successfully.
+2026-07-20 23:13:35.038 [INFO] TaskVerifyBuildResult completed in 0 seconds.
+2026-07-20 23:13:35.038 [INFO] --------------------------------------------->TaskEncryption<--------------------------------------------
+2026-07-20 23:13:35.038 [INFO] TaskEncryption completed in 0 seconds.
+2026-07-20 23:13:35.039 [INFO] --------------------------------------------->TaskUpdateBundleInfo<--------------------------------------------
+2026-07-20 23:13:35.041 [INFO] TaskUpdateBundleInfo completed in 0 seconds.
+2026-07-20 23:13:35.042 [INFO] --------------------------------------------->TaskCreateManifest<--------------------------------------------
+2026-07-20 23:13:35.095 [INFO] Create package manifest file: '/home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/Android/MUDLocalization/20260720201333/MUDLocalization_20260720201333.bytes'.
+2026-07-20 23:13:35.095 [INFO] Create package manifest hash file: '/home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/Android/MUDLocalization/20260720201333/MUDLocalization_20260720201333.hash'.
+2026-07-20 23:13:35.096 [INFO] Create package manifest version file: '/home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/Android/MUDLocalization/20260720201333/MUDLocalization.version'.
+2026-07-20 23:13:35.096 [INFO] TaskCreateManifest completed in 0 seconds.
+2026-07-20 23:13:35.096 [INFO] --------------------------------------------->TaskCreateReport<--------------------------------------------
+2026-07-20 23:13:35.100 [INFO] Create build report file: '/home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/Android/MUDLocalization/20260720201333/MUDLocalization_20260720201333.report'.
+2026-07-20 23:13:35.100 [INFO] TaskCreateReport completed in 0 seconds.
+2026-07-20 23:13:35.100 [INFO] --------------------------------------------->TaskCreatePackage<--------------------------------------------
+2026-07-20 23:13:35.101 [INFO] Start making patch package: '/home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/Android/MUDLocalization/20260720201333'.
+2026-07-20 23:13:35.102 [INFO] TaskCreatePackage completed in 0 seconds.
+2026-07-20 23:13:35.102 [INFO] --------------------------------------------->TaskCopyBundledFiles<--------------------------------------------
+2026-07-20 23:13:35.102 [INFO] TaskCopyBundledFiles completed in 0 seconds.
+2026-07-20 23:13:35.102 [INFO] --------------------------------------------->TaskCreateCatalog<--------------------------------------------
+2026-07-20 23:13:35.103 [INFO] TaskCreateCatalog completed in 0 seconds.
+2026-07-20 23:13:35.103 [INFO] Total build process time: 0 seconds.
+2026-07-20 23:13:35.103 [INFO] Resource pipeline build succeeded.

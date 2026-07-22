@@ -1,0 +1,35 @@
+﻿2026-07-20 23:13:39.601 [INFO] Building package 'MUDArt' with pipeline 'ScriptableBuildPipeline'.
+2026-07-20 23:13:39.601 [INFO] --------------------------------------------->TaskPrepare<--------------------------------------------
+2026-07-20 23:13:39.601 [WARN] [ErrorCode131] Builtin shaders bundle name is null. It will cause resource redundancy.
+2026-07-20 23:13:39.606 [INFO] Delete package root directory: '/home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/Android/MUDArt'.
+2026-07-20 23:13:39.607 [INFO] Create pipeline output directory: '/home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/Android/MUDArt/OutputCache'.
+2026-07-20 23:13:39.607 [INFO] TaskPrepare completed in 0 seconds.
+2026-07-20 23:13:39.607 [INFO] --------------------------------------------->TaskGetBuildMap<--------------------------------------------
+2026-07-20 23:13:39.686 [INFO] TaskGetBuildMap completed in 0 seconds.
+2026-07-20 23:13:39.686 [INFO] --------------------------------------------->TaskBuilding<--------------------------------------------
+2026-07-20 23:13:43.605 [INFO] UnityEngine build succeeded.
+2026-07-20 23:13:43.605 [INFO] TaskBuilding completed in 3 seconds.
+2026-07-20 23:13:43.606 [INFO] --------------------------------------------->TaskVerifyBuildResult<--------------------------------------------
+2026-07-20 23:13:43.606 [INFO] Build results verified successfully.
+2026-07-20 23:13:43.606 [INFO] TaskVerifyBuildResult completed in 0 seconds.
+2026-07-20 23:13:43.606 [INFO] --------------------------------------------->TaskEncryption<--------------------------------------------
+2026-07-20 23:13:43.606 [INFO] TaskEncryption completed in 0 seconds.
+2026-07-20 23:13:43.606 [INFO] --------------------------------------------->TaskUpdateBundleInfo<--------------------------------------------
+2026-07-20 23:13:43.685 [INFO] TaskUpdateBundleInfo completed in 0 seconds.
+2026-07-20 23:13:43.685 [INFO] --------------------------------------------->TaskCreateManifest<--------------------------------------------
+2026-07-20 23:13:43.730 [INFO] Create package manifest file: '/home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/Android/MUDArt/20260720201339/MUDArt_20260720201339.bytes'.
+2026-07-20 23:13:43.730 [INFO] Create package manifest hash file: '/home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/Android/MUDArt/20260720201339/MUDArt_20260720201339.hash'.
+2026-07-20 23:13:43.730 [INFO] Create package manifest version file: '/home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/Android/MUDArt/20260720201339/MUDArt.version'.
+2026-07-20 23:13:43.730 [INFO] TaskCreateManifest completed in 0 seconds.
+2026-07-20 23:13:43.731 [INFO] --------------------------------------------->TaskCreateReport<--------------------------------------------
+2026-07-20 23:13:43.732 [INFO] Create build report file: '/home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/Android/MUDArt/20260720201339/MUDArt_20260720201339.report'.
+2026-07-20 23:13:43.732 [INFO] TaskCreateReport completed in 0 seconds.
+2026-07-20 23:13:43.732 [INFO] --------------------------------------------->TaskCreatePackage<--------------------------------------------
+2026-07-20 23:13:43.733 [INFO] Start making patch package: '/home/tr0st/Projects/NuclearBand/mud/NuclearBand.github.io/MUD/YooAssets/Android/MUDArt/20260720201339'.
+2026-07-20 23:13:43.741 [INFO] TaskCreatePackage completed in 0 seconds.
+2026-07-20 23:13:43.741 [INFO] --------------------------------------------->TaskCopyBundledFiles<--------------------------------------------
+2026-07-20 23:13:43.741 [INFO] TaskCopyBundledFiles completed in 0 seconds.
+2026-07-20 23:13:43.741 [INFO] --------------------------------------------->TaskCreateCatalog<--------------------------------------------
+2026-07-20 23:13:43.741 [INFO] TaskCreateCatalog completed in 0 seconds.
+2026-07-20 23:13:43.741 [INFO] Total build process time: 3 seconds.
+2026-07-20 23:13:43.741 [INFO] Resource pipeline build succeeded.
